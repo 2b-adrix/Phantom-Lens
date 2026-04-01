@@ -1,5 +1,4 @@
 <vector xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:aapt="http://schemas.android.com/aapt"
     android:width="108dp"
     android:height="108dp"
     android:viewportWidth="108"
@@ -21,7 +20,8 @@
     <path
         android:pathData="M30,54 L78,54"
         android:strokeColor="#FF0000"
-        android:strokeWidth="1" />
+        android:strokeWidth="1"
+        android:fillColor="#00000000" />
 
     <!-- Glow effect for the eye -->
     <path
@@ -32,17 +32,21 @@
     <path
         android:pathData="M25,25 L35,25 M25,25 L25,35"
         android:strokeColor="#00FF41"
-        android:strokeWidth="1.5" />
+        android:strokeWidth="1.5"
+        android:fillColor="#00000000" />
     <path
         android:pathData="M83,25 L73,25 M83,25 L83,35"
         android:strokeColor="#00FF41"
-        android:strokeWidth="1.5" />
+        android:strokeWidth="1.5"
+        android:fillColor="#00000000" />
     <path
         android:pathData="M25,83 L35,83 M25,83 L25,73"
         android:strokeColor="#00FF41"
-        android:strokeWidth="1.5" />
+        android:strokeWidth="1.5"
+        android:fillColor="#00000000" />
     <path
         android:pathData="M83,83 L73,83 M83,83 L83,73"
         android:strokeColor="#00FF41"
-        android:strokeWidth="1.5" />
+        android:strokeWidth="1.5"
+        android:fillColor="#00000000" />
 </vector>
